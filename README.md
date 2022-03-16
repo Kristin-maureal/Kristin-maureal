@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kristin-maureal
+- 👋 Hi, I’m Kristin Maureal
 - 👀 I’m interested in Tech and Design
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on basic Python projects
